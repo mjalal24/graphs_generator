@@ -1,0 +1,71 @@
+PR Number,Title,Merged At,Team Name,Release Type,Branch
+28659,Automatic Backporting,2024-09-20T18:40:09Z,Unknown,slow,master
+28609,release/fast/2024-09-20_core_sfct_1054_new_role_on_account_role_object to master,2024-09-20T10:11:36Z,core,fast,master
+28594,release/fast/2024-09-20_platypus_fix_assignment_permission_sets_in_contact to master,2024-09-20T09:09:33Z,platypus,fast,master
+28543,Automatic Backporting,2024-09-19T18:40:11Z,Unknown,slow,master
+28538,release/fast/2024-09-19_lions_sfln334_deploy_last_updates_to_uat to master,2024-09-20T06:57:07Z,lions,fast,master
+28533,release/slow/2024-09-19_panda_sfpd-316_switch_on_structural_flow_and_new_tiles_start_page_in_aurora to master,2024-09-19T16:00:46Z,panda,slow,master
+28495,release/fast/2024-09-19_mpnl_cs0069282_case_feed_issue_fix to master,2024-09-19T12:33:47Z,mpnl,fast,master
+28467,release/fast/2024-09-19_fox_test_class_updates to master,2024-09-19T11:26:21Z,fox,fast,master
+28451,release/slow/2024-09-19_core_sfct_382_changes_to_get_lp to master,2024-09-19T10:39:25Z,core,slow,master
+28440,release/fast/2024-09-19_core_sfct_1064_location_null_check to master,2024-09-19T10:06:58Z,core,fast,master
+28427,release/fast/2024-09-18_core_sfct_1037_increase_code_coverage to master,2024-09-19T08:46:13Z,core,fast,master
+28394,Automatic Backporting,2024-09-18T18:40:10Z,Unknown,slow,master
+28372,release/fast/2024-09-18_core_sfct_1035_cpq_business_type_field to master,2024-09-18T13:43:19Z,core,fast,master
+28365,release/fast/2024-09-18_capybaras_sfca_270 to master,2024-09-18T13:01:26Z,capybaras,fast,master
+28358,release/fast/2024-09-18_core_sfct_996_added_toasts_for_errors to master,2024-09-18T12:40:29Z,core,fast,master
+28349,release/fast/2024-09-18_platypus_sfpy656_edit_user_with_no_auth to master,2024-09-18T12:03:54Z,platypus,fast,master
+28331,Automatic Backporting,2024-09-18T11:05:23Z,Unknown,slow,master
+28323,release/fast/2024-09-17_core_sfct_987_new_button_to_partycodes to master,2024-09-18T10:49:58Z,core,fast,master
+28311,fix for properties,2024-09-18T09:57:51Z,Unknown,slow,master
+28275,Automatic Backporting,2024-09-17T18:40:12Z,Unknown,slow,master
+28267,Revert 27816  jaguar sfjr 554,2024-09-17T17:16:04Z,Unknown,slow,master
+28263,Feature/ft capybaras connected apps properties files,2024-09-17T16:43:48Z,Unknown,slow,master
+28235,release/fast/2024-09-17_mpnl_cs0069282 to master,2024-09-17T14:41:23Z,mpnl,fast,master
+28229,Feature/ft core uat properties audit app,2024-09-17T14:21:32Z,Unknown,slow,master
+28217,release/fast/2024-09-17_core_sfct_954_added_fls_to_api_only_profile to master,2024-09-17T13:34:53Z,core,fast,master
+28208,release/fast/2024-09-17_core_sfct_714_add_extra_track to master,2024-09-17T12:56:49Z,core,fast,master
+28200,release/fast/2024-09-17_core_sfct_448_adjust_csv_mail to master,2024-09-17T12:21:49Z,core,fast,master
+28193,release/fast/2024-09-17_core_sfct_1044_updated_iban_to_uppercase to master,2024-09-17T11:03:51Z,core,fast,master
+28189,release/fast/2024-09-17_platypus_us203_set_cost_center to master,2024-09-17T10:05:46Z,platypus,fast,master
+28182,release/fast/2024-09-17_platypus_sfpy157_adjust_return_address_in_shipment_flow to master,2024-09-17T09:29:24Z,platypus,fast,master
+28172,release/fast/2024-09-17_platypus_sfpy624_update_xls_parsing_manual to master,2024-09-17T08:53:33Z,platypus,fast,master
+28156,release/slow/2024-09-16_salescpq_sfka_799_correct_year_rc_selection to master,2024-09-17T08:10:56Z,salescpq,slow,master
+28146,release/fast/2024-09-17_lions_sfln199_deploy_release_switch_to_true_for_ema_uat_prod to master,2024-09-17T07:26:26Z,lions,fast,master
+28126,Automatic Backporting,2024-09-16T18:40:12Z,Unknown,slow,master
+28121,Update devcontainer.json,2024-09-16T15:35:33Z,Unknown,slow,master
+28120,Update devcontainer.json,2024-09-16T15:26:53Z,Unknown,slow,master
+28118,release/slow/2024-09-16_salescpq_sfka719_cpq_return_platform_nl_contract to master,2024-09-16T18:56:28Z,salescpq,slow,master
+28116,Update devcontainer.json,2024-09-16T15:02:28Z,Unknown,slow,master
+28110,release/fast/2024-09-16_core_sfct-950_terminate_account to master,2024-09-16T14:29:29Z,core,fast,master
+28103,Update devcontainer.json,2024-09-16T13:44:55Z,Unknown,slow,master
+28100,Change devcontainer setting to run npm install non-blocking,2024-09-16T13:14:37Z,Unknown,slow,master
+28087,release/slow/2024-09-16_mpnl_case_optimization to master,2024-09-16T10:42:26Z,mpnl,slow,master
+28077,release/fast/2024-09-16_panda_sfpd-285_new_details_table_for_appointments to master,2024-09-16T09:05:35Z,panda,fast,master
+28067,release/fast/2024-09-16_core_sfct_851_feedbackcallmebackissue to master,2024-09-16T08:08:15Z,core,fast,master
+28066,Run bash terminal upon attaching devcontainer,2024-09-16T08:09:35Z,Unknown,slow,master
+28059,release/fast/2024-09-16_core_sfct_148_code_coverage to master,2024-09-16T07:26:54Z,core,fast,master
+28665,Automatic Backporting to develop_uat,2024-09-20T19:42:22Z,Unknown,slow,
+28606,Fix uat backporting 20 09 2024,2024-09-20T10:05:10Z,Unknown,slow,
+28589, mpnl cs0067044,2024-09-20T10:15:21Z,mpnl,slow,
+28579, platypus sfpy 181 update content request api,2024-09-20T10:58:22Z,platypus,slow,
+28570, platypus order confirmations api,2024-09-20T11:33:36Z,platypus,slow,
+28523,Feature/ft jaguar revertscript digitalreturn,2024-09-20T11:41:25Z,Unknown,slow,
+28519,s,2024-09-20T10:05:12Z,Unknown,slow,
+28517,s,2024-09-19T14:37:36Z,Unknown,slow,
+28312, mpnl mapc 1967 finalize shipment creation   print label,2024-09-19T07:32:21Z,mpnl,slow,
+28294,MC fix from PR #28162,2024-09-18T08:23:17Z,Unknown,slow,
+28282,Automatic Backporting to develop_uat,2024-09-19T07:32:23Z,Unknown,slow,
+28259,CAPYBARAS : resolve false MC release to UAT,2024-09-17T16:15:05Z,Unknown,slow,
+28254, capybaras sfca244,2024-09-17T16:15:08Z,capybaras,slow,
+28248, capybaras sfca 270,2024-09-17T16:55:58Z,capybaras,slow,
+28225, panda sfpd 316 switch on structural flow and new tiles start page in aurora,2024-09-17T14:09:05Z,panda,slow,
+28216, lions sfln334 deploy last updates to uat,2024-09-17T13:29:20Z,lions,slow,
+28211,commit missing properties,2024-09-17T12:59:46Z,Unknown,slow,
+28205,Feature/ft jaguar revert digital return,2024-09-17T12:28:23Z,Unknown,slow,
+28168, mpnl grafanascripts modification,2024-09-17T08:34:20Z,mpnl,slow,
+28163,Sync,2024-09-17T08:21:21Z,Unknown,slow,
+28162, core sfct 382 changes to get lp,2024-09-18T08:23:20Z,core,slow,
+28132,Automatic Backporting to develop_uat,2024-09-16T19:42:25Z,Unknown,slow,
+28064, salescpq sfka 799 correct year rc selection,2024-09-16T07:50:42Z,salescpq,slow,
+28057, salescpq sfka719 cpq return platform nl contract,2024-09-16T06:59:11Z,salescpq,slow,

@@ -1,0 +1,8 @@
+PR Number,Title,Merged At,Team Name,Release Type,Branch
+28751,Automatic Backporting,2024-09-23T18:40:09Z,Unknown,slow,master
+28730,release/fast/2024-09-23_panda_SFPD-315_Port_Incident_Front_End to master,2024-09-23T14:20:16Z,panda,fast,master
+28721,release/slow/2024-09-23_platypus_order_confirmations_api to master,2024-09-23T13:01:06Z,platypus,slow,master
+28713,release/fast/2024-09-20_core_sfct_1046_approval_process_user to master,2024-09-23T10:55:27Z,core,fast,master
+28683,Automatic Backporting,2024-09-23T07:29:39Z,Unknown,slow,master
+28676,"Do not merge! This is the main update to the repository for formatting, openapi, and local qa improvements.",2024-09-23T06:57:12Z,Unknown,slow,master
+28689,Automatic Backporting to develop_uat,2024-09-23T14:12:35Z,Unknown,slow,develop_uat
